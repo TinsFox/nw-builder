@@ -1,10 +1,4 @@
-import { _ as s, c as a, o as n, N as o } from "./chunks/framework.af6cac23.js";
-const u = JSON.parse(
-    '{"title":"Get NW.js binaries","description":"","frontmatter":{},"headers":[],"relativePath":"mode-get.md"}',
-  ),
-  l = { name: "mode-get.md" },
-  e = o(
-    `<h1 id="get-nw-js-binaries" tabindex="-1">Get NW.js binaries <a class="header-anchor" href="#get-nw-js-binaries" aria-label="Permalink to &quot;Get NW.js binaries&quot;">​</a></h1><p>There are multiple ways to get NW.js binaries.</p><p>Module usage:</p><div class="language-javascript"><button title="Copy Code" class="copy"></button><span class="lang">javascript</span><pre class="shiki material-theme-palenight"><code><span class="line"><span style="color:#82AAFF;">nwbuild</span><span style="color:#A6ACCD;">(</span><span style="color:#89DDFF;">{</span></span>
+import{_ as s,c as a,o as n,N as o}from"./chunks/framework.af6cac23.js";const u=JSON.parse('{"title":"Get NW.js binaries","description":"","frontmatter":{},"headers":[],"relativePath":"mode-get.md"}'),l={name:"mode-get.md"},e=o(`<h1 id="get-nw-js-binaries" tabindex="-1">Get NW.js binaries <a class="header-anchor" href="#get-nw-js-binaries" aria-label="Permalink to &quot;Get NW.js binaries&quot;">​</a></h1><p>There are multiple ways to get NW.js binaries.</p><p>Module usage:</p><div class="language-javascript"><button title="Copy Code" class="copy"></button><span class="lang">javascript</span><pre class="shiki material-theme-palenight"><code><span class="line"><span style="color:#82AAFF;">nwbuild</span><span style="color:#A6ACCD;">(</span><span style="color:#89DDFF;">{</span></span>
 <span class="line"><span style="color:#A6ACCD;">  </span><span style="color:#F07178;">mode</span><span style="color:#89DDFF;">:</span><span style="color:#A6ACCD;"> </span><span style="color:#89DDFF;">&quot;</span><span style="color:#C3E88D;">get</span><span style="color:#89DDFF;">&quot;</span><span style="color:#89DDFF;">,</span></span>
 <span class="line"><span style="color:#89DDFF;">}</span><span style="color:#A6ACCD;">)</span><span style="color:#89DDFF;">;</span></span>
 <span class="line"></span></code></pre></div><p>CLI usage:</p><div class="language-shell"><button title="Copy Code" class="copy"></button><span class="lang">shell</span><pre class="shiki material-theme-palenight"><code><span class="line"><span style="color:#FFCB6B;">nwbuild</span><span style="color:#A6ACCD;"> </span><span style="color:#C3E88D;">--mode=get</span></span>
@@ -32,12 +26,4 @@ const u = JSON.parse(
 <span class="line"><span style="color:#A6ACCD;">  </span><span style="color:#F07178;">ffmpeg</span><span style="color:#89DDFF;">:</span><span style="color:#A6ACCD;"> </span><span style="color:#FF9CAC;">true</span><span style="color:#89DDFF;">,</span></span>
 <span class="line"><span style="color:#89DDFF;">}</span><span style="color:#A6ACCD;">)</span><span style="color:#89DDFF;">;</span></span>
 <span class="line"></span></code></pre></div><p>CLI usage:</p><div class="language-shell"><button title="Copy Code" class="copy"></button><span class="lang">shell</span><pre class="shiki material-theme-palenight"><code><span class="line"><span style="color:#FFCB6B;">nwbuild</span><span style="color:#A6ACCD;"> </span><span style="color:#C3E88D;">--mode=get</span><span style="color:#A6ACCD;"> </span><span style="color:#C3E88D;">--ffmpeg</span></span>
-<span class="line"></span></code></pre></div>`,
-    31,
-  ),
-  p = [e];
-function t(r, c, i, D, y, d) {
-  return n(), a("div", null, p);
-}
-const C = s(l, [["render", t]]);
-export { u as __pageData, C as default };
+<span class="line"></span></code></pre></div>`,31),p=[e];function t(r,c,i,D,y,d){return n(),a("div",null,p)}const C=s(l,[["render",t]]);export{u as __pageData,C as default};

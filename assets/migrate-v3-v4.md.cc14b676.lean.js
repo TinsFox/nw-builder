@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,N as p}from"./chunks/framework.af6cac23.js";const A=JSON.parse('{"title":"Migrate from v3 to v4","description":"","frontmatter":{},"headers":[],"relativePath":"migrate-v3-v4.md"}'),o={name:"migrate-v3-v4.md"},l=p("",48),e=[l];function t(c,r,D,i,y,C){return n(),a("div",null,e)}const d=s(o,[["render",t]]);export{A as __pageData,d as default};
