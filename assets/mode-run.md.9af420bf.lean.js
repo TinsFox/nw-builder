@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,N as l}from"./chunks/framework.af6cac23.js";const A=JSON.parse('{"title":"Run NW.js applications","description":"","frontmatter":{},"headers":[],"relativePath":"mode-run.md"}'),o={name:"mode-run.md"},p=l("",12),e=[p];function t(c,r,D,y,F,C){return n(),a("div",null,e)}const u=s(o,[["render",t]]);export{A as __pageData,u as default};

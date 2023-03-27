@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,N as l}from"./chunks/framework.af6cac23.js";const A=JSON.parse('{"title":"Build NW.js applications","description":"","frontmatter":{},"headers":[],"relativePath":"mode-build.md"}'),o={name:"mode-build.md"},p=l("",11),e=[p];function t(c,r,D,y,C,F){return n(),a("div",null,e)}const u=s(o,[["render",t]]);export{A as __pageData,u as default};
