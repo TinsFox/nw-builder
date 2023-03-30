@@ -1,1 +1,0 @@
-import{_ as a,c as s,o as e,N as n}from"./chunks/framework.af6cac23.js";const u=JSON.parse('{"title":"Installation Guide","description":"","frontmatter":{},"headers":[],"relativePath":"install.md"}'),l={name:"install.md"},o=n("",20),p=[o];function t(c,r,i,d,C,y){return e(),s("div",null,p)}const g=a(l,[["render",t]]);export{u as __pageData,g as default};
