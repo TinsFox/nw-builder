@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,N as o}from"./chunks/framework.7bd7edc5.js";const A=JSON.parse('{"title":"Build NW.js applications","description":"","frontmatter":{},"headers":[],"relativePath":"mode-build.md"}'),l={name:"mode-build.md"},p=o("",13),e=[p];function t(c,r,D,y,i,C){return n(),a("div",null,e)}const d=s(l,[["render",t]]);export{A as __pageData,d as default};
