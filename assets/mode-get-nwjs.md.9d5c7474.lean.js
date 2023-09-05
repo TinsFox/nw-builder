@@ -1,0 +1,1 @@
+import{_ as s,o,c as a,Q as n}from"./chunks/framework.356f6f12.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"mode-get-nwjs.md","filePath":"mode-get-nwjs.md"}'),t={name:"mode-get-nwjs.md"},l=n("",14),e=[l];function p(r,c,i,d,u,E){return o(),a("div",null,e)}const h=s(t,[["render",p]]);export{m as __pageData,h as default};
