@@ -1,1 +1,0 @@
-import{_ as t,o as e,c as d,S as o}from"./chunks/framework.dfca0fa2.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"api-nux.md","filePath":"api-nux.md"}'),a={name:"api-nux.md"},i=o("",14),r=[i];function n(s,c,p,l,h,f){return e(),d("div",null,r)}const m=t(a,[["render",n]]);export{u as __pageData,m as default};
