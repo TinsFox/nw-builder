@@ -1,1 +1,0 @@
-import{_ as e,o as a,c as t,Q as r}from"./chunks/framework.356f6f12.js";const h=JSON.parse('{"title":"nw-builder","description":"","frontmatter":{},"headers":[],"relativePath":"index.md","filePath":"index.md"}'),i={name:"index.md"},o=r("",5),n=[o];function l(d,s,u,c,_,p){return a(),t("div",null,n)}const m=e(i,[["render",l]]);export{h as __pageData,m as default};
