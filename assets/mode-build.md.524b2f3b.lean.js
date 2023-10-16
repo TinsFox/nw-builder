@@ -1,1 +1,0 @@
-import{_ as t,o as e,c as o,Q as d}from"./chunks/framework.df8d1972.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"mode-build.md","filePath":"mode-build.md"}'),r={name:"mode-build.md"},i=d("",31),s=[i];function n(a,c,l,p,h,f){return e(),o("div",null,s)}const g=t(r,[["render",n]]);export{m as __pageData,g as default};
