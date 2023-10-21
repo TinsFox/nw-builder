@@ -1,1 +1,0 @@
-import{_ as s,o as t,c as o,Q as a}from"./chunks/framework.cdb141a4.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"mode-get.md","filePath":"mode-get.md"}'),e={name:"mode-get.md"},n=a("",30),l=[n];function p(r,d,c,i,u,h){return t(),o("div",null,l)}const E=s(e,[["render",p]]);export{g as __pageData,E as default};
