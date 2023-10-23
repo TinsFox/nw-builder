@@ -1,1 +1,0 @@
-import{_ as t,o,c as s,Q as e}from"./chunks/framework.b4de87cf.js";const g=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"mode-get.md","filePath":"mode-get.md"}'),a={name:"mode-get.md"},n=e("",35),l=[n];function p(r,d,c,i,u,h){return o(),s("div",null,l)}const E=t(a,[["render",p]]);export{g as __pageData,E as default};
