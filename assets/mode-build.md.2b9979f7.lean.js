@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as s,Q as n}from"./chunks/framework.cd3051f6.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"mode-build.md","filePath":"mode-build.md"}'),o={name:"mode-build.md"},a=n("",37),r=[a];function l(i,d,p,c,h,u){return t(),s("div",null,r)}const m=e(o,[["render",l]]);export{f as __pageData,m as default};
